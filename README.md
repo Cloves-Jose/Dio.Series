@@ -1,7 +1,7 @@
 # Dio.Series
 Projeto para o Bootcamp &lt;Decola Tech/> 
 
-<h2>Descricao</h2>
+<h2>Descriçao</h2>
 
 <p align="left">
   Projeto de cadastro de séries desenvolvido durante o Bootcamp Decola Tech Avanade em parceria com a Digital Innovation One, tendo como principal objetivo o uso de POO
