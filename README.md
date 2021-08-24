@@ -20,7 +20,6 @@ Projeto para o Bootcamp &lt;Decola Tech/>
 - [ ] Exclusão de séries por ID
 - [ ] Busca de séries por título
 - [ ] Atualização de status da série localizando pelo ID
-- [ ] Buscar séries associadas ao diretor
 
 <h2>Tecnologias</h2>
 
